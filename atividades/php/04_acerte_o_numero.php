@@ -24,6 +24,4 @@
     }
 }
 
- 
-
- echo $teclado;
+echo $teclado;
