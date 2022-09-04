@@ -1,0 +1,28 @@
+Atividades de fixação Lista 01 (SLIDE 5).
+
+Dica: utilize a função fgets(STDIN) ou readline() para capturar o valor digitado no terminal.
+
+1. Faça um programa PHP que: 
+    a. Leia o nome digitado pelo usuário;
+    b. Leia o sobrenome digitado pelo usuário;
+    c. Concatene (junte) o nome com o sobrenome e apresente o nome completo.
+
+2. Faça um programa PHP que:
+    a. Leia os valores de COMPRIMENTO, LARGURA e ALTURA e apresente o valor do 
+    volume de uma caixa retangular. Utilize para o cálculo a fórmula VOLUME = 
+    COMPRIMENTO * LARGURA * ALTURA.
+
+3. Faça um programa PHP que: 
+    a. Obtenha o valor para a variável $ht (horas trabalhadas no mês);
+    b. Obtenha o valor para a variável $vt (valor hora trabalhada):
+    c. Obtenha o valor para a variável $pd (percentual de desconto);
+    d. Calcule o salário bruto => $sb = $ht * $vt;
+    e. Calcule o total de desconto => $td = ($pd/100)*$sb;
+    f. Calcule o salário líquido => $sl = $sb – $td;
+    g. Apresente os valores de: Horas trabalhadas, Salário Bruto, Desconto, Salário líquido.
+
+4. Faça um algoritmo que leia os valores A, B e C. Mostre uma mensagem que informe se a 
+soma de A com B é menor, maior ou igual a C.
+
+5. Faça um algoritmo que leia um número na variável $num1 e calcule se esse número é par 
+ou ímpar.

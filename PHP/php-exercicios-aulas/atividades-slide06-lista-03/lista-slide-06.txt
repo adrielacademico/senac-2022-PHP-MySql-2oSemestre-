@@ -1,0 +1,20 @@
+Atividades de fixação Lista 03 (SLIDE 6).
+
+Dica: utilize a função fgets(STDIN) ou readline() para capturar o valor digitado no terminal.
+
+1. Utilizando o seu conhecimento em laços de repetição, crie dois arrays: listaCrescente: com 
+uma sequência de inteiros de 0 a 100; listaDecrescente: com uma sequência de inteiros de 
+100 para 0; Ao final, faça a impressão de cada array no terminal;
+
+2. Faça um programa PHP que devolve um array de números lidos do teclado.
+
+3. Percorra o array a seguir e exiba a mensagem indicando o nome e a posição deste quando 
+for localizado no array: [“João”, “José”, “Maria”, “Severino”, “Antônio”, “Marcos”, “Manoel”, 
+“Filipe”, “André”, “Paulo”]; Use a linha de comando para digitar o nome;
+
+4. Crie um array chamado “alunosDeMinhaTurma” e, com o recurso da função fgets(STDIN), 
+adicione os nomes de todos os seus colegas de sala. Ao final, faça a impressão dos nomes. 
+(Será necessário usar um laço de repetição).
+
+5. Crie um programa PHP que recebe um array de inteiros predefinido e retorna as 
+quantidades de elementos do array que são números negativos e números positivos.
