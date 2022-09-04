@@ -1,7 +1,7 @@
 <?php
 
-$turma = [];
-$aluno = [];
+$turma = []; // iniciando o array turma com 0 itens.
+$aluno = []; // iniciando o array aluno com 0 itens.
 
 $continuar_loop = true; // iniciando a variável que será testada no while para loop do programa.
 
