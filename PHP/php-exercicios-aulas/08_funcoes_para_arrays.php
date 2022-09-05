@@ -82,8 +82,6 @@ array_shift($carros_antigos);
 array_pop($carros_antigos);
 print_r($carros_antigos);
 
-function nomeDaMinhaFuncao(string $texto, int $numero, ? bool $ativo){
-    return "retornar o $texto passado com o $numero";
-}
+
 
 
